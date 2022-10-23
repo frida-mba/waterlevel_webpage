@@ -1,5 +1,5 @@
 <?php
-
+// first comment
 define("servename","localhost");
 define("username","root");
 define("password","");
