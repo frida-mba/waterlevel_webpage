@@ -1,5 +1,5 @@
 <?php
-
+//connecting to the database
 define("servename","localhost");
 define("username","root");
 define("password","");
